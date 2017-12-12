@@ -8,5 +8,9 @@ namespace Contoso.Library
         {
             return $"Hello Vulcan";
         }
+        public string Welcome()
+        {
+            return $"Hi Vulcan";
+        }
     }
 }
